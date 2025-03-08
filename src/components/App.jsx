@@ -212,7 +212,7 @@ const App = () => {
 
   return (
     <main className="flex flex-col items-center justify-center overflow-y-auto">
-      <div className="relative w-full h-screen">
+      <div className="relative w-full h-[100dvh]">
         {isXL ? (
           <div className="flex items-center justify-between gap-4 w-full p-5 absolute top-0 left-0 z-100">
             <nav className="flex flex-row gap-5">
