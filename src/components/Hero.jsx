@@ -49,7 +49,7 @@ const Hero = ({
         >
           <div className="w-full h-full mask-image-bottom">
             <img
-              src="src/assets/solo.jpg"
+              src="/images/solo.jpg"
               alt={title}
               className="h-full object-cover mask-image opacity-[0.5] xl:opacity-100"
             />
