@@ -56,7 +56,7 @@ const Hero = ({
           </div>
         </div>
         <div className="absolute bottom-0 md:bottom-10 w-full max-sm:h-1/2 mask-image-left xl:-ml-50 overflow-hidden left-5">
-          <h1 className="text-white text-3xl font-bold mb-5 lg:text-7xl w-1/2">
+          <h1 className="text-white text-2xl font-bold mb-5 lg:text-7xl w-1/2">
             {title}
           </h1>
 
